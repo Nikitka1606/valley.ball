@@ -1,0 +1,7 @@
+.player{
+    width: 1280px;
+    height: 720px;
+    background: center/100% url(../images/player.png);
+    background-size: cover;
+    object-fit: cover;
+}
