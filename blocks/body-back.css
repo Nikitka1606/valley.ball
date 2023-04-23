@@ -1,0 +1,4 @@
+body{
+    background: repeat url("../images/back_pattern_ball.png");
+    background-repeat:unset;
+}
