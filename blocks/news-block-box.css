@@ -1,0 +1,10 @@
+.news-block-box{
+    width: 100%;
+    max-width: 830px;
+    height: 425px;
+    left: 225px;
+    top: 163px;
+
+    background: #00A5EC;
+    border-radius: 148px;
+}

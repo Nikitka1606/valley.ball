@@ -9,3 +9,8 @@
 @import '../blocks/news-text-style.css'; 
 @import '../blocks/body-back.css';
 @import '../blocks/article.css';
+@import '../blocks/news-block-box.css';
+@import '../blocks/bordered-box.css';
+@import '../blocks/news-block.css';
+@import '../blocks/news-content.css';
+@import '../blocks/news-header.css';

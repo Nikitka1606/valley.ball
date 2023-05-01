@@ -1,7 +1,9 @@
 .article{
     background-color: white;
+    border: 10px solid white;
     margin-left: 100px;
-    width: 1080px;
-    height: 3000px;
+    width: 87%;
+    max-width: 1080px;
+    height: auto;
     text-indent: 20px;
 }
