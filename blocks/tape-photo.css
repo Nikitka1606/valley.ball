@@ -1,4 +1,6 @@
 .tape-photo{
-    width: 600px;
+    width: 50vw;
     height: auto;
+    background-size: cover;
+    object-fit: cover;
 }

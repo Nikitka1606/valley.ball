@@ -1,8 +1,9 @@
 .bordered-box{
     box-sizing: border-box;
 
-    width: 100%;
+    width: 54vw;
     max-width: 805px;
+    min-width: 400px;
     height: 47vh;
     max-height: 397px;
     left: 237px;
@@ -11,6 +12,6 @@
     background: #FFFFFF;
     border: 8px solid #00A5EC;
     border-radius: 48px;
-    margin-top: -410.5px;
-    margin-left: 12px;
+    margin-top: 0px;
+    margin-left: -27vw;
 }

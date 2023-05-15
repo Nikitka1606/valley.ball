@@ -1,4 +1,8 @@
-.video1{
-    margin-top: 20px;
-    margin-left: 25vw;
+.video{
+    margin-left: calc(50vw - 280px);
+}
+
+#nav-video ul{
+    list-style-type: none;
+    text-decoration: none;
 }
