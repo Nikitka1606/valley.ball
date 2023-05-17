@@ -1,4 +1,5 @@
 .embended-rules{
     min-width: 800px;
-    width: 102%;
+    width: 101%;
+    margin-left: -8px;
 }

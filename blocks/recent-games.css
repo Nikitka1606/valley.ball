@@ -1,3 +1,10 @@
 .recent-games{
     margin-left: 4vw;
 }
+
+@media screen and (max-width: 768px) {
+    .recent-games{
+        font-size: 0;
+        margin-left:10vw;
+    }
+}

@@ -4,3 +4,9 @@
     margin-top: -37px;
     margin-left: 13vw;
 }
+
+@media screen and (max-width: 430px) {
+    .nav-nav-bar{
+        display: flex;
+    }
+}

@@ -4,7 +4,7 @@
     width: 54vw;
     max-width: 805px;
     min-width: 400px;
-    height: 47vh;
+    height: 35vh;
     max-height: 397px;
     left: 237px;
     top: 177px;
@@ -14,4 +14,11 @@
     border-radius: 48px;
     margin-top: 0px;
     margin-left: -27vw;
+
+    overflow-x: hidden;
+}
+
+.bordered-box::-webkit-scrollbar
+{
+  display: none;
 }
