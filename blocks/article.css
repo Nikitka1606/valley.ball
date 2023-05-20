@@ -1,10 +1,42 @@
 .article{
-    background-color: white;
-    border: 10px solid white;
+    background-color: rgb(12, 12, 12);
+    border: 10px solid rgb(12, 12, 12);
     margin-left: 100px;
     width: 80vw;
     height: auto;
     text-indent: 20px;
     position: inherit;
-    margin-top: 80px;
+    margin-top: 50px;
+}
+
+.article a{
+    color: white;
+    margin: 1em 0 0.5em 0;
+    font-weight: 600;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: #788699;
+    font-family: 'Muli', sans-serif;
+}
+.article h1 {
+    font-size: 36px;
+    line-height: 40px;
+    margin: 1em 0 .6em 0;
+    font-weight: normal;
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);  
+    color: #6Cf;
+}
+ 
+.article h2 {
+    margin: 1em 0 .6em 0;
+    padding: 0 0 0 20px;
+    font-weight: normal;
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+    font-size: 30px;
+    line-height: 40px;
 }

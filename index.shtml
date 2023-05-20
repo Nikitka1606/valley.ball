@@ -6,21 +6,21 @@
     <link rel="stylesheet" href="pages/index.css">
 </head>
 <body>
-    <header style="margin-top: -80px;">
-        <a href="index.html"> <img class="ball" src="images/icons/ball.png"> </a>
+    <header style="margin-top: -50px;">
+        <a href="index.shtml"> <img class="ball" src="images/icons/ball.png"> </a>
         <div id="nav-bar">
             <ul class="nav-nav-bar">
                 <li class="news">
-                    <a class="news-text-header" href="news.html"> НОВОСТИ </a> 
+                    <a class="news-text-header" href="news.shtml"> НОВОСТИ </a> 
                 </li>
                 <li class="recent-games">
-                    <a class="recent-games-header" href="recent games.html"> НЕДАВНИЕ ИГРЫ </a> 
+                    <a class="recent-games-header" href="recent games.shtml"> НЕДАВНИЕ ИГРЫ </a> 
                 </li>
                 <li class="game-rules">
-                    <a class="game-rules-header" href="game rules.html"> ПРАВИЛА ИГРЫ </a> 
+                    <a class="game-rules-header" href="game rules.shtml"> ПРАВИЛА ИГРЫ </a> 
                 </li>
                 <li class="tape-technics">
-                    <a class="tape-technics-header" href="tape technics.html"> ТЕХНИКИ ТЕЙПА </a> 
+                    <a class="tape-technics-header" href="tape technics.shtml"> ТЕХНИКИ ТЕЙПА </a> 
                 </li>
             </ul> 
         </div>
@@ -52,3 +52,7 @@
         </a>
     </div>
 </body>
+<footer>
+    <!--#include file="footer.html"-->
+</footer>
+</html>

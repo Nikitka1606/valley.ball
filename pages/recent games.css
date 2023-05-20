@@ -12,10 +12,9 @@
 @import '../blocks/article.css';
 @import '../blocks/video1.css';
 @import '../blocks/icons.css';
-@import '../blocks/game-rules-text.css';
 @import '../blocks/news-text-header.css';
-@import '../blocks/tape-technics-text.css';
-@import '../blocks/recent-games-text.css';
 @import '../blocks/game-rules-header.css';
 @import '../blocks/tape-technics-header.css';
 @import '../blocks/recent-games-header.css';
+@import '../blocks/reset.css';
+@import '../blocks/footer.css';

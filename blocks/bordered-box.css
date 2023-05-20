@@ -1,21 +1,40 @@
 .bordered-box{
-    box-sizing: border-box;
+  box-sizing: border-box;
 
-    width: 54vw;
-    max-width: 805px;
-    min-width: 400px;
-    height: 35vh;
-    max-height: 397px;
-    left: 237px;
-    top: 177px;
+  width: 54vw;
+  max-width: 805px;
+  min-width: 400px;
+  height: 35vh;
+  max-height: 397px;
 
-    background: #FFFFFF;
-    border: 8px solid #00A5EC;
-    border-radius: 48px;
-    margin-top: 0px;
-    margin-left: -27vw;
+  background-color: rgb(200, 200, 200);
+  border: 8px solid #00A5EC;
+  border-radius: 12px;
+  margin-top: 0px;
+  margin-left: auto;
+    margin-right: auto;
 
-    overflow-x: hidden;
+  overflow-x: hidden;
+}
+
+.bordered-box h1{
+margin: 1em 0 0.5em 0;
+  color: #343434;
+  font-weight: normal;
+  font-family: 'Ultra', sans-serif;  
+  font-size: 36px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-shadow: 0 2px white, 0 3px #777;
+}
+
+.bordered-box a{
+margin: 1em 0 0.5em 0;
+  color: #757575;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: normal;
+  font-family: 'Orienta', sans-serif;
 }
 
 .bordered-box::-webkit-scrollbar
