@@ -3,10 +3,11 @@
     font-family: Arial, Helvetica, sans-serif;
     margin-top: -37px;
     margin-left: 13vw;
+    width: 80%;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 550px) {
     .nav-nav-bar{
-        display: flex;
+        margin-left:30px;
     }
 }

@@ -1,0 +1,27 @@
+.news-text-header{
+    position: relative;
+}
+
+.news-text-header::before{
+    width: 40px;
+    height: 40px;
+    content: "";
+    position: absolute;
+    background-size: cover;
+    left: -45px;
+    top: -12px;
+    background-image: url(../images/icons/news_icon.png);
+}
+
+@media screen and (max-width: 768px) {
+    .news-text-header{
+        top: -15px;
+        margin-left: 5vw; 
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .news-text-header{
+        margin-left:30px;
+    }
+}

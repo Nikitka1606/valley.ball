@@ -1,5 +1,5 @@
 .game-rules{
-    margin-left: 4vw;
+    margin-left: 9vw;
     
 }
 
@@ -7,5 +7,11 @@
     .game-rules{
         font-size: 0;
         margin-left:10vw;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .game-rules{
+        margin-left:50px;
     }
 }

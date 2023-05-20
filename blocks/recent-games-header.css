@@ -1,0 +1,27 @@
+.recent-games-header{
+    position: relative;
+}
+
+.recent-games-header::before{
+    width: 40px;
+    height: 40px;
+    content: "";
+    position: absolute;
+    background-size: cover;
+    left: -45px;
+    top: -12px;
+    background-image: url(../images/icons/recent-games_icon.png);
+}
+
+@media screen and (max-width: 768px) {
+    .recent-games-header{
+        top: -15px;
+        margin-left: 5vw; 
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .recent-games-header{
+        margin-left:30px;
+    }
+}

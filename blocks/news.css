@@ -1,10 +1,16 @@
 .news{
-    margin-left: -2vw;
+    margin-left: 0vw;
 }
 
 @media screen and (max-width: 768px) {
     .news{
         font-size: 0;
         margin-left:10vw;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .news{
+        margin-left:50px;
     }
 }

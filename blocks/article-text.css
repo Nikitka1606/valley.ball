@@ -1,3 +1,5 @@
 .article-text{
     color: black;
+    display: block;
+    width: 96%;
 }

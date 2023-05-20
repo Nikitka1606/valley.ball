@@ -1,11 +1,12 @@
 .tape-technics{
-    margin-left: 4vw;
+    margin-left: 9vw;
 }
 
-@media screen and (min-width:100px) and (max-width: 938px) {
+@media screen and (max-width: 938px) {
     .tape-technics{
         font-size: 0;
-        margin-left: 4vw;
+        margin-left: 9vw;
+        top: -10px;
     }
 }
 
@@ -13,5 +14,11 @@
     .tape-technics{
         font-size: 0;
         margin-left: 10vw;  
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .tape-technics{
+        margin-left:50px;
     }
 }

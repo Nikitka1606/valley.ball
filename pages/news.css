@@ -16,3 +16,7 @@
 @import '../blocks/news-header.css';
 @import '../blocks/news-column.css';
 @import '../blocks/icons.css';
+@import '../blocks/news-text-header.css';
+@import '../blocks/game-rules-header.css';
+@import '../blocks/tape-technics-header.css';
+@import '../blocks/recent-games-header.css';
