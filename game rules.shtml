@@ -26,5 +26,8 @@
         </div>
     </header>
     <embed class="embended-rules" src="embends/game-rules.pdf"/>
+    <footer>
+        <!--#include file="footer.shtml"-->
+    </footer>
 </body>
 </html>

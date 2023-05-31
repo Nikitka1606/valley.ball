@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="pages/recent games.css">
 </head>
 <body>
-    <header style="margin-top: -100px;">
+    <header>
         <a href="index.shtml"> <img class="ball" src="images/icons/ball.png"> </a>
         <div id="nav-bar">
             <ul class="nav-nav-bar">
@@ -33,7 +33,7 @@
         </ul>
     </div>
     <footer>
-        <!--#include footer.html-->
+        <!--#include file="footer.shtml"-->
     </footer>
 </body>
 </html>

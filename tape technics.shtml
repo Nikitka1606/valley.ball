@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="pages/tape technics.css">
 </head>
 <body>
-    <header style="margin-top: -50px;">
+    <header>
         <a href="index.shtml"> <img class="ball" src="images/icons/ball.png"> </a>
         <div id="nav-bar">
             <ul class="nav-nav-bar">
@@ -70,7 +70,7 @@
         </a>
     </div>
     <footer>
-        <!--#include footer.html-->
+        <!--#include file="footer.shtml"-->
     </footer>
 </body>
 </html>

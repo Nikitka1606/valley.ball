@@ -28,6 +28,8 @@ footer {
     background-color: #004f70;
     line-height: 1.3;
     font-family: Menlo, monospace;
+    margin-top: 60px;
+    flex: 0 0 auto;
 }
 
 @media (min-width: 550px) {

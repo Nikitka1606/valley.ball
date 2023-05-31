@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="pages/index.css">
 </head>
 <body>
-    <header style="margin-top: -50px;">
+    <header>
         <a href="index.shtml"> <img class="ball" src="images/icons/ball.png"> </a>
         <div id="nav-bar">
             <ul class="nav-nav-bar">
@@ -51,8 +51,8 @@
             <p>Развитие волейбола за последние столетия было огромным. Сегодня волейбол стал одним из самых популярных и зрелищных видов спорта в мире, привлекая миллионы людей со всего мира. Благодаря различным технологическим инновациям и развитию молодежных и женских программ, волейбол продолжает развиваться и привлекать новых поклонников.</p>
         </a>
     </div>
+    <footer>
+        <!--#include file="footer.shtml"-->
+    </footer>
 </body>
-<footer>
-    <!--#include footer.html-->
-</footer>
 </html>
