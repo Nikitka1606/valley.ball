@@ -2,8 +2,10 @@
 <html lang="ru">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.8">
     <title> Valley.ball </title>
     <link rel="stylesheet" href="pages/game rules.css">
+    <link media="print" rel="stylesheet" href="blocks/print.css">
 </head>
 <body>
     <header>
@@ -25,8 +27,14 @@
             </ul> 
         </div>
     </header>
-    <embed class="embended-rules" src="embends/game-rules.pdf"/>
-    <footer>
+    <div>  
+        <iframe class="embended-rules"src='embends/game-rules.pdf' width="500" height="678">
+        <p>Ваш браузер не поддерживает PDF!</p>
+        <a href="embends/game-rules.pdf">Скачать</a>
+        </iframe>
+    </object>
+    </div>
+    <footer style="margin-left: -17px;">
         <ul>
             <li>
                 <a href="https://t.me/n_halo">Telegram</a>
